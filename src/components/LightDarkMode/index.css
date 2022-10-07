@@ -1,0 +1,24 @@
+/* Write your CSS here */
+.bg-container {
+  height: 100vh;
+  background-color: black;
+}
+.main-heading {
+  color: white;
+}
+.button-el {
+  color: white;
+  background-color: black;
+}
+
+.bg-container1 {
+  height: 100vh;
+  background-color: white;
+}
+.main-heading1 {
+  color: black;
+}
+.button-el1 {
+  color: black;
+  background-color: white;
+}
